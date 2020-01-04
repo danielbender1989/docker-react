@@ -18,6 +18,9 @@ function App() {
         >
           Learn React
         </a>
+        <p>
+          Added new Paragraph.
+        </p>
       </header>
     </div>
   );
